@@ -20,3 +20,11 @@
 .ais-pagination--item__active {
     background-color: grey
 }
+
+.ais-refinement-list--label {
+    color: grey
+}
+
+.ais-refinement-list--count {
+    color: grey
+}
