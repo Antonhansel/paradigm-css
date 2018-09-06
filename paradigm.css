@@ -4,11 +4,11 @@
     padding:5px;
 }
 
-// *********************
-// Algolia related below
-// *********************
+/* *********************
+ Algolia related below
+********************* */
 
-// Algolia reset button
+/* Algolia reset button */
 .ais-clear-all--link-disabled {
     background-color: darkgrey
 }
@@ -16,7 +16,7 @@
     background-color: grey
 }
 
-// Pagination item
+/* Pagination item */
 .ais-pagination--item__active {
     background-color: grey
 }
